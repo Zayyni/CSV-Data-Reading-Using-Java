@@ -1,0 +1,5 @@
+101,Mouse,1000.00
+102,Keyboard,5300.00
+103,RAM,8000.00
+104,Monitor,10000.00
+105,Monitor Table,4000.00
